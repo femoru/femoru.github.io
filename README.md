@@ -1,14 +1,14 @@
 # Felipe Moctezuma
 Mobile and Web Developer
 
-##Languages
+## Languages
 - Java
 - C#
 - Javascript (Backend)
 - PL/SQL
 
 
-##Frameworks
+## Frameworks
 - NodeJS
 - AngularJS
 - Cordova
